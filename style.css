@@ -175,21 +175,18 @@ img:hover {
     background-image: url("img/patika3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     background-position: center;
   }
   .slide:nth-child(2) {
     background-image: url("img/patika2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     background-position: center;
   }
   .slide:nth-child(3) {
     background-image: url("img/patika1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     background-position: center;
   }
 
